@@ -1,0 +1,40 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "user_name": "Abhishek",
+      "user_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "conetent": "Dude thank you so much for making this, now if only it was possible to somehow get this"
+    },
+    {
+      "id": 2,
+      "user_name": "Rakib",
+      "user_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "conetent": "Dude thank you so much for making this, now if only it was possible to somehow get this"
+    },
+    {
+      "user_name": "Rakib",
+      "user_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "conetent": "soumya Mahunta",
+      "id": 3
+    },
+    {
+      "user_name": "Rakib",
+      "user_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "conetent": "soumya Mahunta maghia",
+      "id": 4
+    },
+    {
+      "user_name": "Rakib",
+      "user_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "conetent": "Dude thank you so much for making this, now if only it was possible to somehow get this Dude thank you so much for making this, now if only it was possible to somehow get this",
+      "id": 5
+    },
+    {
+      "user_name": "Rakib",
+      "user_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "conetent": "Dude thank you so much for making this, ",
+      "id": 6
+    }
+  ]
+}

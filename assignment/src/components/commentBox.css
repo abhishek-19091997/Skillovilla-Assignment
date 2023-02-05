@@ -1,0 +1,13 @@
+.commentBoxDiv{
+    text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        margin-left: 0 auto;
+}
+#commentBox {
+    padding: 16px;
+    width: 40rem;
+    border-radius: 5px;
+}

@@ -1,0 +1,24 @@
+#comment_div{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: start;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+#image{
+    width: 50px;
+}
+#content_div{
+    text-align: start;
+    /* width: 20%; */
+}
+#name{
+    color: #1ea6fb;
+    line-height: 0;
+    font-weight: 500;
+}
+#content{
+    width: 680px;
+    margin-bottom: 0;
+}
